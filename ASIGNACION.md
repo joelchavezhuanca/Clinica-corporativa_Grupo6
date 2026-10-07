@@ -1,3 +1,11 @@
+# Asignación - 03 Estudiante Celula1 Dominio B
+
+**Responsabilidad:** POO de Cita e Historia Clínica: encapsulamiento, atributos privados, validaciones y excepciones de dominio.
+
+## Archivos asignados
+- `src/domain/__init__.py`
+- `src/domain/cita.py`
+- `src/domain/historia_clinica.py`
 # Asignación - 02 Estudiante Celula1 Dominio A
 
 **Responsabilidad:** POO de Paciente y Médico: encapsulamiento, atributos privados, validaciones y excepciones de dominio.
