@@ -1,19 +1,14 @@
-# Asignación - 03 Estudiante Celula1 Dominio B
+# Asignación - 04 Estudiante Celula2 Servicios Datos A
 
-**Responsabilidad:** POO de Cita e Historia Clínica: encapsulamiento, atributos privados, validaciones y excepciones de dominio.
-
-## Archivos asignados
-- `src/domain/__init__.py`
-- `src/domain/cita.py`
-- `src/domain/historia_clinica.py`
-# Asignación - 02 Estudiante Celula1 Dominio A
-
-**Responsabilidad:** POO de Paciente y Médico: encapsulamiento, atributos privados, validaciones y excepciones de dominio.
+**Responsabilidad:** Servicios de Paciente y Médico, repositorio JSON y persistencia de pacientes/médicos.
 
 ## Archivos asignados
-- `src/domain/__init__.py`
-- `src/domain/paciente.py`
-- `src/domain/medico.py`
+- `src/services/__init__.py`
+- `src/services/paciente_service.py`
+- `src/services/medico_service.py`
+- `src/services/json_repository.py`
+- `data/pacientes.json`
+- `data/medicos.json`
 
 ## Regla de trabajo
 Trabajar únicamente en los archivos/ruta asignados, crear una rama feature propia, hacer commits claros y enviar Pull Request hacia `main`. No editar directamente archivos de otra célula sin coordinación con GitMaster.
